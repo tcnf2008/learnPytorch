@@ -66,7 +66,8 @@ notebooks/07_engineering_practice.ipynb
 阶段产物：
 
 - `notebooks/01_tensor_basics.ipynb`
-- 一页笔记：常见形状变换和容易出错的地方。
+- `docs/notes/01_tensor-shape-cheatsheet.md`
+- `src/learn_pytorch/device.py`
 
 验收标准：
 

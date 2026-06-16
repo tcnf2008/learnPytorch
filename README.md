@@ -18,6 +18,7 @@ python -m ipykernel install --user --name learn-pytorch --display-name "Python (
 
 ```text
 .
+├── docs/            # 学习计划、阶段笔记和复盘文档
 ├── notebooks/       # 探索式学习笔记和实验
 ├── src/             # 可复用代码
 ├── tests/           # 测试
@@ -42,3 +43,9 @@ python -m ipykernel install --user --name learn-pytorch --display-name "Python (
 - 在 notebook 或 Markdown 中记录实验目标、数据来源、关键超参数、随机种子和结论。
 - 大文件只记录来源和生成方式，不直接提交到 git。
 - 可复用逻辑沉淀到 `src/`，再用 notebook 调用，避免重要代码只存在于笔记中。
+
+## 当前学习内容
+
+- 学习计划：[docs/learning-plan.md](docs/learning-plan.md)
+- 第 1 阶段 notebook：[notebooks/01_tensor_basics.ipynb](notebooks/01_tensor_basics.ipynb)
+- 第 1 阶段速查笔记：[docs/notes/01_tensor-shape-cheatsheet.md](docs/notes/01_tensor-shape-cheatsheet.md)
