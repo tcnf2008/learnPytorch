@@ -104,7 +104,8 @@ notebooks/07_engineering_practice.ipynb
 阶段产物：
 
 - `notebooks/02_autograd_linear_regression.ipynb`
-- 一段手写线性回归训练代码。
+- `docs/notes/02_autograd-linear-regression.md`
+- `src/learn_pytorch/autograd.py`
 
 验收标准：
 

@@ -49,3 +49,5 @@ python -m ipykernel install --user --name learn-pytorch --display-name "Python (
 - 学习计划：[docs/learning-plan.md](docs/learning-plan.md)
 - 第 1 阶段 notebook：[notebooks/01_tensor_basics.ipynb](notebooks/01_tensor_basics.ipynb)
 - 第 1 阶段速查笔记：[docs/notes/01_tensor-shape-cheatsheet.md](docs/notes/01_tensor-shape-cheatsheet.md)
+- 第 2 阶段 notebook：[notebooks/02_autograd_linear_regression.ipynb](notebooks/02_autograd_linear_regression.ipynb)
+- 第 2 阶段速查笔记：[docs/notes/02_autograd-linear-regression.md](docs/notes/02_autograd-linear-regression.md)
